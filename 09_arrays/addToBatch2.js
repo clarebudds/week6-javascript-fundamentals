@@ -8,4 +8,4 @@ const addToBatch = (array, number) => {
   return array.concat(number);
 };
 
-console.log(addToBatch([1], 3));
+console.log(addToBatch([], 8));
